@@ -20,7 +20,13 @@
 .title{
   text-decoration: double;
 }
-
+.blackCard{
+  width: auto;
+  height: 300px;
+  border-color: antiquewhite;
+  border-radius: 5px;
+  border: 10px;
+}
 /* .App-logo {
   height: 100%;
   width: 100%;
